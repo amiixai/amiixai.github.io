@@ -1,161 +1,106 @@
 
-prof-a:
-    display_name: "Prof A"
+prof-randy:
+    display_name: "Randy Goebel"
     role: faculty
+    webpage: "https://www.amii.ca/people/randy-goebel"
+    image: /img/people/randy.png
+    bio: Professor at UAlberta, Amii Co-Founder, Amii Fellow
 
-prof-b:
-    display_name: "Prof B"
+prof-osmar:
+    display_name: "Osmar R. Zaiane"
     role: faculty
+    webpage: "https://webdocs.cs.ualberta.ca/~zaiane/"
+    image: /img/people/osmar.png
+    bio: Professor at UAlberta, Amii Fellow
 
-prof-c:
-    display_name: "Prof C"
+prof-miyoung:
+    display_name: "Mi-Young Kim"
     role: faculty
+    webpage: "https://sites.ualberta.ca/~miyoung2/"
+    image: /img/people/miyoung.png
+    bio: Associate Professor at UAlberta
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+grad-iain:
+    display_name: "Iain N. Smith"
+    github: IainNBSmith
+    webpage: "https://www.linkedin.com/in/iainnbsmith/"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/iain.png
+    bio: Lab Organizer, MSc Student of Osmar Zaiane
 
-grad-a:
-    display_name: "Grad A"
+grad-quamran:
+    display_name: "H M Quamran Hasan"
+    webpage: "https://www.linkedin.com/in/h-m-quamran-hasan/?originalSubdomain=ca"
     role: grad
+    image: /img/people/quamran.png
+    bio: MSc Student of Mi-Young Kim and Randy Goebel
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+grad-yeji:
+    display_name: "Yeji Kim"
+    webpage: "https://www.linkedin.com/in/ye-jikim/?originalSubdomain=ca"
     role: grad
+    image: /img/people/yeji.png
+    bio: MSc Student of Mi-Young Kim and Randy Goebel
 
-grad-c:
-    display_name: "Grad C"
+grad-eujin:
+    display_name: "Euijin Baek"
+    webpage: "https://www.linkedin.com/in/euijin-baek-09611122a/?originalSubdomain=ca"
     role: grad
+    image: /img/people/euijin.png
+    bio: PhD Student of Mi-Young Kim and Randy Goebel
 
-grad-d:
-    display_name: "Grad D"
+grad-jiayi:
+    display_name: "Jiayi Dai"
+    webpage: "https://www.linkedin.com/in/jiayi-dai-b4a485226/?originalSubdomain=ca"
     role: grad
+    image: /img/people/jiayi.png
+    bio: PhD Student of Randy Goebel
 
-grad-e:
-    display_name: "Grad E"
+grad-abed:
+    display_name: "Md Abed Rahman"
+    webpage: "https://www.linkedin.com/in/md-abed-rahman-66305161/?originalSubdomain=ca"
     role: grad
+    image: /img/people/abed.png
+    bio: PhD Student of Mi-Young Kim and Randy Goebel
 
-grad-f:
-    display_name: "Grad F"
+grad-ali:
+    display_name: "Ali Rafiei"
+    github: ali-rafiei
+    webpage: "https://www.linkedin.com/in/a-rafiei/?originalSubdomain=ca"
     role: grad
+    image: /img/people/ali.png
+    bio: MSc Student of Osmar Zaiane
 
-grad-g:
-    display_name: "Grad G"
+grad-bruce:
+    display_name: "Bruce Matichuk"
+    webpage: "https://www.linkedin.com/in/bruce-matichuk-6138395/?originalSubdomain=ca"
     role: grad
+    image: /img/people/bruce.png
+    bio: PhD Student of Osmar Zaiane and Randy Goebel
 
-grad-h:
-    display_name: "Grad H"
+grad-nafisa:
+    display_name: "Nafisa Sadaf Hriti"
+    webpage: "https://www.linkedin.com/in/nsd1/?originalSubdomain=ca"
     role: grad
+    image: /img/people/nafisa.png
+    bio: MSc Student of Randy Goebel
 
-grad-i:
-    display_name: "Grad I"
+grad-sheila:
+    display_name: "Sheila Schoepp"
+    github: sheilaschoepp
     role: grad
+    image: /img/people/sheila.png
+    bio: PhD Student of Osmar Zaiane
 
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
+alum-housam:
+    display_name: "Housam Khalifa Bashier Babiker"
     role: alum
 
-alum-e:
-    display_name: "Alum E"
+alum-shahin:
+    display_name: "Shahin Atakishiyev"
     role: alum
 
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+prev-visitor-teruaki:
+    display_name: "Teruaki Hayashi"
+    role: prev-visitor
+    bio: "June 2024 - June 2025"

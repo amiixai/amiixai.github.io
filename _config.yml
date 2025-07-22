@@ -16,7 +16,9 @@ roles:
   - key: staff
     name: Staff
   - key: postdoc
-    name: Researchers
+    name: Post-Docs
+  - key: visitor
+    name: Visiting Academics
   - key: grad
     name: Graduate Students
   - key: ugrad
@@ -25,6 +27,8 @@ roles:
     name: Past Undergraduate Students
   - key: collab
     name: Collaborators
+  - key: prev-visitor
+    name: Previous Visitors
   - key: alum
     name: Alumni
 
